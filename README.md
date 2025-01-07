@@ -41,4 +41,3 @@ zoe-chat/
 - Access to Streamlabs chat widget settings
 - Native desktop window for chat widget
 - Portable Windows executable
-```
